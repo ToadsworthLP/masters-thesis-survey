@@ -1,1 +1,0 @@
-import{C as o,s as t}from"./FormPage.D-kIwF-s.js";const e={[o.ControlThenTest]:["/forest_c.mp4","/forest_t.mp4"],[o.TestThenControl]:["/forest_t.mp4","/forest_c.mp4"]},s="https://docs.google.com/forms/d/e/1FAIpQLSf1SuU9Xv0anqyghh_Cp_QHvw0RaSCW9BCKWdBEmRo1gCWkdA/formResponse",n="entry.668678450";document.addEventListener("DOMContentLoaded",function(r){t(e,s,n,"castle")});
